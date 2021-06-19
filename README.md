@@ -1,5 +1,7 @@
 # Project Euler
 Here is a collection of the problems I have solved from https://projecteuler.net/
+I have also gone ahead and generalized the programs to accept user input.
+Most poroblem shave been solved using c++14 
 
 # About Project Euler
 Leonhard Euler (1707-1783)
